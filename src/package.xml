@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LoadingTestData</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Milestone_Task__c</members>
+        <members>Milestone__c</members>
+        <members>Project__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TestData_Accounts</members>
+        <members>TestData_MilestoneTasks</members>
+        <members>TestData_Milestones</members>
+        <members>TestData_Projects</members>
+        <name>StaticResource</name>
+    </types>
+    <version>37.0</version>
+</Package>
