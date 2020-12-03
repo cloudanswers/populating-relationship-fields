@@ -1,2 +1,3 @@
 # Populating Relationship Fields
-Populating Relationship Fields with Test.loadData
+
+Example from blog post on how to populate lookup fields using Test.loadData
